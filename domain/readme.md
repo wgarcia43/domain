@@ -9,7 +9,7 @@ Documentation for the framework can be found on the [Laravel website](http://lar
  - Middleware con 3 roles de usuarios.
  
 ## Instalacion
- - git clone https://github.com/huascar24/base.git
+ - git clone https://github.com/wgarcia43/domain
  - configurar el .env   renombrar .env.example y configurar los datos de conexión a la bd
  - configurar en .env los datos para el envío de email de recordar contraseña:
             MAIL_DRIVER=smtp
